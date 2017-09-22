@@ -9,3 +9,4 @@ Some openresty demo.
 - [nginx-lua-module-zh-wiki](https://github.com/iresty/nginx-lua-module-zh-wiki)
 - [OpenResty 最佳实践](http://wiki.jikexueyuan.com/project/openresty/)
 - [跟我学 Nginx+Lua 开发](http://wiki.jikexueyuan.com/project/nginx-lua/coroutines.html)
+- [agentzh-nginx-tutorials-zhcn](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
